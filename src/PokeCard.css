@@ -1,0 +1,10 @@
+.PokeCard{
+    border: gray .1px solid;
+    box-shadow: 2px 2px 2px 2px #ccc;
+    width: 250px;
+    height: 250px;
+    background-color: lightgray;
+}
+.PokeCard-name{
+    color: darkblue;
+}
